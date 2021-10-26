@@ -1,0 +1,54 @@
+h1 {
+  font-family: Arial, Calibry, sans-serif;
+  margin-bottom: 30px;
+}
+
+body {
+	
+  font-family: system-ui;
+  text-align: center;
+	
+}
+
+equation {
+  text-align: center;
+  width: 80px;	
+  font-size: 28px;
+}
+
+#equation {
+  font-size: 28px;
+	
+}
+
+input {
+	border-radius: 25px;
+	border-color: black;
+	text-align: center;
+}
+
+button {
+  margin: 30px auto;
+  padding: 10px 15px;
+	border-radius: 15px;
+  background-color: #008CBA;
+  color: white;
+  cursor: pointer;
+  border: none
+}
+
+button:hover {
+  background-color: rgb(147, 217, 240);
+  color: white;
+}
+
+footer {
+	display: block;
+	font-size: 15px;
+}
+
+ 
+
+#NOS {
+  display: none;	
+}
